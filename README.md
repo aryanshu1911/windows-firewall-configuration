@@ -1,8 +1,3 @@
-Here’s the fully corrected **`README.md`** content with the **SSH (port 22) allowance** clearly included in both the steps and summary. You can copy and paste this directly into your GitHub repo:
-
----
-
-````markdown
 # 🔒 Task: Setup and Use a Firewall on Windows
 
 ## 📌 Objective
